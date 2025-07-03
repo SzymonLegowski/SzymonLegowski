@@ -1,4 +1,7 @@
-## Hi there 👋
+## About
+
+Architect of web solutions, trying to became proficient in designing interoperable data exchange protocols between application layers and relational data structures.    
+Harnessing power of virtualized runtime environment in order to maintain runability of previously mentioned.
 
 <!--
 **SzymonLegowski/SzymonLegowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
