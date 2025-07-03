@@ -1,6 +1,7 @@
 ## About
 
-Architect of web solutions, trying to became proficient in designing interoperable data exchange protocols between application layers and relational data structures.    
+Architect of web solutions, trying to became proficient in designing interoperable data exchange protocols  
+that are hopping between application layers and relational data structures.    
 Harnessing power of virtualized runtime environment in order to maintain runability of previously mentioned.
 
 <!--
