@@ -4,6 +4,8 @@ Architect of web solutions, trying to became proficient in designing interoperab
 that are hopping between application layers and relational data structures.    
 Harnessing power of virtualized runtime environment in order to maintain runability of previously mentioned.
 
+4 292 893 815.
+
 <!--
 **SzymonLegowski/SzymonLegowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
