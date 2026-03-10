@@ -1,6 +1,6 @@
 ## About
 
-CS student, trying to learn and do stuff.
+Electronics & Telecomms student(CS grad), trying to learn and do stuff.
 
 <!--
 **SzymonLegowski/SzymonLegowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
